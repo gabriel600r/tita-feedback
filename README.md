@@ -15,7 +15,7 @@ Tu asistente de recordatorios con alma de abuela. Carinosa, atenta y siempre pen
 
 ## Descarga
 
-Disponible en Google Play (proximamente).
+[Descargar en Google Play](https://play.google.com/store/apps/details?id=com.egeainc.tita)
 
 ## Feedback
 
