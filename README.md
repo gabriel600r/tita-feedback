@@ -8,7 +8,7 @@
 
 Tu asistente de recordatorios con alma de abuela. Cariñosa, atenta y siempre pendiente de vos.
 
-**Versión actual: 0.5.0** · [Novedades](CHANGELOG.md)
+**Versión actual: 0.5.1** · [Novedades](CHANGELOG.md)
 
 ### Todo gratis
 
@@ -47,7 +47,7 @@ https://github.com/gabriel600r/tita-feedback/issues
 
 A reminder app with a grandma's soul. Warm, caring and always looking out for you.
 
-**Current version: 0.5.0** · [Changelog (Spanish)](CHANGELOG.md)
+**Current version: 0.5.1** · [Changelog (Spanish)](CHANGELOG.md)
 
 The app is in English and Spanish. Tita reads dates and times from a sentence ("every 8 hours", "May 15") only in Spanish for now: in English, you type or say the reminder and set the date and time with a tap.
 

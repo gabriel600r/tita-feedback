@@ -2,6 +2,10 @@
 
 Novedades de cada versión publicada en Google Play. Los textos son los mismos que Tita muestra dentro de la app.
 
+## 0.5.1
+
+- **Completar desde el Calendario** — En el Calendario, si deslizabas un recordatorio para marcarlo como hecho, volvía a su lugar y no pasaba nada. Ya está arreglado: ahora se completa igual que en la pantalla de inicio.
+
 ## 0.5.0
 
 - **Ahora todo Tita es gratis** — Las fotos, el dictado, las rutinas y notas fijadas sin límite, los estilos y la copia de seguridad ya no tienen candado: son para todos. Para poder sostener la app sumé un anuncio chiquito abajo de todo, lejos de tus recordatorios y nunca en las alarmas.
