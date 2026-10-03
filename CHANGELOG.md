@@ -2,6 +2,10 @@
 
 Novedades de cada versión publicada en Google Play. Los textos son los mismos que Tita muestra dentro de la app.
 
+## 0.5.2
+
+- **El botón + ya no salta** — Cuando aparecía el anuncio de abajo, el botón + subía de golpe y era fácil tocar el anuncio sin querer. Ahora su lugar está guardado desde que abrís la app, así nada se mueve.
+
 ## 0.5.1
 
 - **Completar desde el Calendario** — En el Calendario, si deslizabas un recordatorio para marcarlo como hecho, volvía a su lugar y no pasaba nada. Ya está arreglado: ahora se completa igual que en la pantalla de inicio.
